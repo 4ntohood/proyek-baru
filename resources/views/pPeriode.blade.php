@@ -50,7 +50,7 @@
         }
 
         .bg {
-            background-image: url("{{ asset('assets/img/bg.jpg') }}");
+            background-image: url("{{ asset('assets/img/maersk1.jpg') }}");
             height: 100%;
             /*filter: blur(1px);*/
             background-position: center;
